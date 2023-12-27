@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@900&family=Quicksand:wght@400;600;700&family=Roboto:wght@400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@900&family=Quicksand:wght@400;600;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100&display=swap');
 
 *{
     font-family: "Roboto", "Lato", 'Times New Roman', Times, serif;
@@ -53,10 +53,9 @@ h2{
     background-color: #E5E7EB;
 }
 
-.quote_text{
+.quote-text{
     font-size: 36px;
-    font-style: italic;
-    font-weight: 100;
+    font-weight:300;
     color: #1F2937;
 }
 
@@ -107,7 +106,7 @@ nav{
     color: #5f5f5f;
 }
 
-.information{
+#information{
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -129,4 +128,17 @@ nav{
     gap: 8px;
     width: 200px;
     text-align: center;
+}
+
+.citation{
+    font-size: 24px;
+    font-weight: bold;
+    color: #000000;
+    font-style: normal;
+    display: flex;
+    justify-content: flex-end;
+}
+
+#quote{
+    padding: 112px 336px;
 }
