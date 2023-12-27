@@ -93,6 +93,7 @@ nav{
     padding: 8px;
     border-radius: 10px;
     border-color: transparent;
+    cursor: pointer;
 }
 
 .blue-border-box{
@@ -141,4 +142,23 @@ nav{
 
 #quote{
     padding: 112px 336px;
+}
+
+.CTA-container{
+    margin: 112px 224px;
+    padding: 45px 104px;
+    border-radius: 6px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.CTA-button{
+    font-weight: bold;
+    width: 150px;
+    padding: 5px;
+    border-radius: 10px;
+    border-color: white;
+    background-color: transparent;
+    cursor: pointer;
 }
