@@ -18,7 +18,7 @@ Here is the outcome they asked for
 
 ![Outcome Needed](images/Outcome%20Needed.png)
 
-[Click Here To See My Version](https://mhmdlsiblini.github.io/top-landing-page-project/)
+[Click Here To See My Version](https://mhmdlsiblini.github.io/TOP-Landing-Page-Project/)
 
 Keep in mind Media Query was not a factor in this project.
 
