@@ -162,3 +162,10 @@ nav{
     background-color: transparent;
     cursor: pointer;
 }
+
+#footer{
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
